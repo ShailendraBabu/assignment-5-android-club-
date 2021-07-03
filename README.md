@@ -14,3 +14,4 @@ Now Run the app and perform desired operations
 
 ![image](https://user-images.githubusercontent.com/86487819/124345112-6355c280-dbf4-11eb-8413-100ccfe46088.png)
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/86487819/124347036-c4cf5e80-dbff-11eb-89e8-9a58672485a6.gif)
